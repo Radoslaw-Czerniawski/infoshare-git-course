@@ -1,1 +1,1 @@
-# infoshare-git-course
+# GIT and GitHub course
